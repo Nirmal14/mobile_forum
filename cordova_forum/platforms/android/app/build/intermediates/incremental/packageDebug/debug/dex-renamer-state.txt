@@ -1,0 +1,4 @@
+#Fri May 31 17:00:00 IST 2019
+base.0=C\:\\Users\\nirmal\\Desktop\\project\\mobileApp_Forum\\cordova_forum\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
